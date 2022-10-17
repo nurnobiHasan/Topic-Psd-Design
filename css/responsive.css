@@ -1,0 +1,56 @@
+@media all and (max-width:991px){
+	.logo{
+		width: 100%;
+		overflow: hidden;
+	}
+	.header-right{
+		width: 63%;
+		margin-left: 7%;
+		margin-top: 22px;
+	}
+	.submit{
+		margin-right: none;
+	}
+	.inpu{
+		overflow: hidden;
+		display: inherit;
+	}
+	.header-right p{
+		overflow: hidden;
+		float: none;
+	}
+	.header-right-icons{
+		width: 30%;
+		margin-top: 47px;
+		display: inline-block;
+	}
+}
+@media all and (max-width:401px){
+	.header-right{
+		width: 93%;
+		margin-left: 7%;
+	}
+	.header-right-icons{
+		width: 100%;
+		display: inline;
+	}
+	.header-right-icons ul{
+		text-align: center;
+	}
+	.header-right-icons ul li{
+		display: inline-block;
+	}
+	.header-right-icons ul li i{
+		float: left;
+		margin: 26px 11px;
+	}
+}
+
+
+
+
+
+
+
+
+
